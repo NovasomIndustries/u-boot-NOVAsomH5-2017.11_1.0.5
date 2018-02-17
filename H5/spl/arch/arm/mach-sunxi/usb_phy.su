@@ -1,0 +1,9 @@
+usb_phy.c:220:6:sunxi_usb_phy_enable_squelch_detect	0	static
+usb_phy.c:229:6:sunxi_usb_phy_init	0	static
+usb_phy.c:255:6:sunxi_usb_phy_exit	0	static
+usb_phy.c:277:6:sunxi_usb_phy_power_on	48	static
+usb_phy.c:294:6:sunxi_usb_phy_power_off	0	static
+usb_phy.c:306:5:sunxi_usb_phy_vbus_detect	48	static
+usb_phy.c:328:5:sunxi_usb_phy_id_detect	0	static
+usb_phy.c:338:5:sunxi_usb_phy_probe	64	static
+usb_phy.c:385:5:sunxi_usb_phy_remove	32	static

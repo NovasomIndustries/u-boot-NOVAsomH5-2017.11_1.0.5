@@ -1,0 +1,11 @@
+board.c:724:13:setup_environment	112	static
+board.c:82:6:i2c_init_board	0	static
+board.c:177:5:board_init	32	static
+board.c:301:5:dram_init	32	static
+board.c:540:5:board_mmc_init	32	static
+board.c:577:6:sunxi_board_init	32	static
+board.c:661:5:g_dnl_board_usb_cable_connected	0	static
+board.c:668:6:get_board_serial	32	static
+board.c:801:5:misc_init_r	48	static
+board.c:837:5:ft_board_setup	32	static
+board.c:856:5:board_fit_config_name_match	48	static

@@ -1,0 +1,4 @@
+sunxi_de2.c:290:12:sunxi_de2_bind	16	static
+sunxi_de2.c:180:12:sunxi_de2_init.constprop	256	static
+sunxi_de2.c:228:12:sunxi_de2_probe	64	static
+sunxi_de2.c:320:5:sunxi_simplefb_setup	96	static
