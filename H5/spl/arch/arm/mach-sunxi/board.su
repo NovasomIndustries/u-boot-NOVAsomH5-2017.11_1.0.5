@@ -1,6 +1,0 @@
-board.c:154:6:s_init	16	static
-board.c:218:10:sunxi_get_boot_device	16	static
-board.c:258:5:spl_boot_device	0	static
-board.c:264:5:spl_boot_mode	0	static
-board.c:269:6:board_init_f	16	static
-board.c:282:6:reset_cpu	0	static
